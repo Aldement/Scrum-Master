@@ -26,3 +26,13 @@ et de s'inscrire aux événements.
 - **Risque identifié** : l'inscription à un événement (CCG6-10) dépend des
   informations détaillées d'un événement (CCG6-7) ; ses critères
   d'acceptation sont à préciser.
+
+  ## Traçabilité Jira–GitHub
+- **Ticket Jira lié** : CCG6-5
+- **Branche** : `docs/CCG6-5-sprint-notes`
+- **Type de changement** : documentation uniquement (aucun code applicatif)
+- **Pull Request** : "CCG6-5 docs: add sprint notes"
+
+## Statut du sprint
+- Sprint en cours, limite WIP de 2 tickets en "In Progress".
+- Prochaine étape : traiter CCG6-7 en priorité, car CCG6-10 en dépend.
